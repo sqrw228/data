@@ -54,17 +54,6 @@
       "review_url": "https://www.youtube.com/watch?v=LxWOw1QtRPY",
       "image_url": "https://raw.githubusercontent.com/sqrw228/data/main/excodes.png",
       "flags": ["FREE", "DX11"]
-    },
-    {
-      "id": "excodes",
-      "name": "INTERFACE EXCODES",
-      "date": "11.01.2026",
-      "button_text": "Download",
-      "review_text": "Watch interface review",
-      "download_url": "https://cdn.discordapp.com/attachments/1459658330422382623/1459661991374225480/excodes_loader.rar?ex=696417a9&is=6962c629&hm=fee99e5b87cf3117a2b9fe5e60a93cd9b4f490916981a9979833b1db3e12036a&",
-      "review_url": "https://www.youtube.com/watch?v=LxWOw1QtRPY",
-      "image_url": "https://raw.githubusercontent.com/sqrw228/data/main/excodes.png",
-      "flags": ["FREE", "DX11"]
     }
   ]
 }

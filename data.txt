@@ -31,7 +31,7 @@
       "download_url": "https://cdn.discordapp.com/attachments/1459658330422382623/1459661484283007193/skullbo.rar?ex=69641731&is=6962c5b1&hm=a0584d393e5fd640a0ac8317526e7a4c48ee8cdbc97a9314cc2fd62209b86dfb&",
       "review_url": "https://www.youtube.com/watch?v=ISoGmxMWy_E",
       "image_url": "https://raw.githubusercontent.com/sqrw228/data/main/putty.png",
-      "flags": ["FREE", "NEW"]
+      "flags": ["FREE", "DX11"]
     },
     {
       "id": "wolf",
@@ -42,7 +42,29 @@
       "download_url": "https://cdn.discordapp.com/attachments/1459658330422382623/1459660544867831839/wolf.rar?ex=69641651&is=6962c4d1&hm=580a2d33ab592a45bba173cd2665255243769eedc63271ede8c5a739920adb9e&",
       "review_url": "https://www.youtube.com/watch?v=EbAW95riPfc",
       "image_url": "https://raw.githubusercontent.com/sqrw228/data/main/wolf.png",
-      "flags": ["FREE", "NEW"]
+      "flags": ["FREE", "DX11"]
+    },
+    {
+      "id": "excodes",
+      "name": "INTERFACE EXCODES",
+      "date": "11.01.2026",
+      "button_text": "Download",
+      "review_text": "Watch interface review",
+      "download_url": "https://cdn.discordapp.com/attachments/1459658330422382623/1459661991374225480/excodes_loader.rar?ex=696417a9&is=6962c629&hm=fee99e5b87cf3117a2b9fe5e60a93cd9b4f490916981a9979833b1db3e12036a&",
+      "review_url": "https://www.youtube.com/watch?v=LxWOw1QtRPY",
+      "image_url": "https://raw.githubusercontent.com/sqrw228/data/main/excodes.png",
+      "flags": ["FREE", "DX11"]
+    },
+    {
+      "id": "excodes",
+      "name": "INTERFACE EXCODES",
+      "date": "11.01.2026",
+      "button_text": "Download",
+      "review_text": "Watch interface review",
+      "download_url": "https://cdn.discordapp.com/attachments/1459658330422382623/1459661991374225480/excodes_loader.rar?ex=696417a9&is=6962c629&hm=fee99e5b87cf3117a2b9fe5e60a93cd9b4f490916981a9979833b1db3e12036a&",
+      "review_url": "https://www.youtube.com/watch?v=LxWOw1QtRPY",
+      "image_url": "https://raw.githubusercontent.com/sqrw228/data/main/excodes.png",
+      "flags": ["FREE", "DX11"]
     }
   ]
 }

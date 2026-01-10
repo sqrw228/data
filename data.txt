@@ -1,1 +1,31 @@
-xyesos
+{
+  "products": [
+    {
+      "id": "zero",
+      "name": "INTERFACE ZERO",
+      "date": "01.01.2025",
+      "download_url": "https://your-site.com/download/zero",
+      "review_url": "https://youtube.com/watch?v=zero_review",
+      "image_url": "https://media.discordapp.net/attachments/1063374282299805737/1442172655250706472/discord_present.png?ex=696316b3&is=6961c533&hm=db46f2e7a3dc71ddda28e30d61bb5afb482a1c44539d428f3f619112fec823de&=&format=webp&quality=lossless&width=1376&height=873",
+      "flags": ["FREE", "NEW"]
+    },
+    {
+      "id": "cylon",
+      "name": "INTERFACE CYLON",
+      "date": "02.01.2025",
+      "download_url": "https://your-site.com/download/cylon",
+      "review_url": "https://youtube.com/watch?v=cylon_review",
+      "image_url": "https://media.discordapp.net/attachments/1063374282299805737/1457719823357444329/discord.png?ex=69639e61&is=69624ce1&hm=6db86fdb753ca52e92da5821904d0be655dbbb99f14d7658b0afa3a0c9df0ff4&=&format=webp&quality=lossless&width=1376&height=920",
+      "flags": ["PREMIUM"]
+    },
+    {
+      "id": "gum",
+      "name": "INTERFACE GUM",
+      "date": "03.01.2025",
+      "download_url": "https://your-site.com/download/gum",
+      "review_url": "https://youtube.com/watch?v=gum_review",
+      "image_url": "https://media.discordapp.net/attachments/1063374282299805737/1442250746111332402/discord.png?ex=69635f6d&is=69620ded&hm=5232caf9c75a299de99f82deddc7b1e4e377ef42f186af5864498e4411998257&=&format=webp&quality=lossless&width=1376&height=920",
+      "flags": ["FREE"]
+    }
+  ]
+}

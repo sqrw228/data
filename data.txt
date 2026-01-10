@@ -23,6 +23,17 @@
       "flags": ["PREMIUM"]
     },
     {
+      "id": "rasul",
+      "name": "RASUL",
+      "date": "777",
+      "button_text": "Buy or die",
+      "review_text": "Is rasul drilly gang",
+      "download_url": "https://your-site.com/download/cylon",
+      "review_url": "https://youtube.com/watch?v=cylon_review",
+      "image_url": "https://media.discordapp.net/attachments/1441168159808950282/1459611271212175451/BD2A3357-2F27-4B5B-AC6C-D3AAD75E84F2.png?ex=6963e86d&is=696296ed&hm=427c163b8230104ae89bfe629b4faf0db7715bd3a8bb3f0419d68f003ac2ee3d&=&format=webp&quality=lossless",
+      "flags": ["777"]
+    },
+    {
       "id": "gum",
       "name": "INTERFACE GUM",
       "date": "03.01.2025",

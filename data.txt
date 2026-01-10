@@ -1,6 +1,17 @@
 {
   "products": [
     {
+      "id": "banner",
+      "name": "Banner",
+      "date": "01.01.2025",
+      "button_text": "View",
+      "review_text": "Watch interface review",
+      "download_url": "https://discord.gg/DvmwDYqvSq",
+      "review_url": "https://youtube.com/watch?v=zero_review",
+      "image_url": "https://raw.githubusercontent.com/sqrw228/data/main/discord_present.png",
+      "flags": ["FREE", "NEW"]
+    },
+    {
       "id": "zero",
       "name": "INTERFACE ZERO",
       "date": "01.01.2025",

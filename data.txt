@@ -12,6 +12,17 @@
       "flags": ["FREE", "NEW"]
     },
     {
+      "id": "crown",
+      "name": "INTERFACE CROWN",
+      "date": "11.01.2026",
+      "button_text": "Download",
+      "review_text": "Watch interface review",
+      "download_url": "https://cdn.discordapp.com/attachments/1459658330422382623/1459874796899926059/imgui_crown.rar?ex=6964ddda&is=69638c5a&hm=d94b6d37f7ab3bee6d235aea14bc894fb8ddff5e93935be591a7a71df5a959bb&",
+      "review_url": "https://www.youtube.com/@gdev_youtube",
+      "image_url": "https://raw.githubusercontent.com/sqrw228/data/main/crown.jpg",
+      "flags": ["NEW", "FREE", "BY LYAPOS"]
+    },
+    {
       "id": "iowoofer",
       "name": "INTERFACE IOWOOFER",
       "date": "11.01.2026",
